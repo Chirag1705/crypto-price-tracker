@@ -1,6 +1,6 @@
 # Visit Website
 
-[Cryptocurrency Price Tracker]https://chirag1705.github.io/crypto-price-tracker/
+[Cryptocurrency Price Tracker](https://chirag1705.github.io/crypto-price-tracker/)
 
 # Getting Started with Create React App
 
